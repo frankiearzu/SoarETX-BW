@@ -1,5 +1,5 @@
 -- JFXJ/ALIGN.lua
--- Timestamp: 2021-11-07
+-- Timestamp: 2024-07-03
 -- Created by Jesper Frickmann
 
 local N = 32 -- Highest output channel number
